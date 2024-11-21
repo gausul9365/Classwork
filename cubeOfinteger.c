@@ -13,6 +13,5 @@ int main()
   printf("%.1lf\n", cube);
     
     
-    
   return 0;
 }
