@@ -19,4 +19,4 @@ printf("The average age is: %.2f", avg);
 
 
 return 0;
-}
+}ggg
