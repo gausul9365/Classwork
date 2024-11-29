@@ -1,0 +1,2 @@
+WAP to check the palindrome of the string
+WAP to show the sum of 10 element of array and the show the average 
