@@ -7,9 +7,9 @@ int main()
 
     pc = &c;
     c =1; // location  doesnt channge when changing the valuew
-    
+
     printf("%d\n", c);
-    printf("%d\n", pc);
+    printf("%p\n", pc);
       
   return 0;
 }
