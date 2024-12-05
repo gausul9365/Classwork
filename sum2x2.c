@@ -35,7 +35,7 @@
     for(int i=0; i<2; ++i){
     for (int j = 0; i < 2; i++)
     {
-      printf("%.1f\t", result[i][j] );
+      printf("%.1f\t  ", result[i][j] );
       if(j==1){
         printf("\n");
           
