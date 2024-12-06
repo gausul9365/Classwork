@@ -1,1 +1,14 @@
+Write a c program to multipilacation of two matrix
+
+
+
+
+
+
+
+
+
+
+
 WAP to separate odd and even integer numbers into separate array
+WAP to delete the element at desired position from an array
