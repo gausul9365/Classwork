@@ -12,7 +12,5 @@ int b = 23;
 int result = sum(&a,&b);
 printf("%d\n", result);
 
-  
-  
   return 0;
 }
