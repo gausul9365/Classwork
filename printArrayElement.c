@@ -9,7 +9,7 @@ int main() {
     scanf("%d", &n);
 
  
-    int* arr = (int*)malloc(n * sizeof(int));
+    int* arr = (int*)malloc(n * sizeof(int));defef
     
 
     
