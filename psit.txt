@@ -1,0 +1,2 @@
+WAP to store n number of element and print the element using the pointer 
+WAP to C program to claculate the length if string using pointer
