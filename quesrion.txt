@@ -1,0 +1,5 @@
+write a c program create structure name employee to store employee detail such as employee id name and salary
+write a c program to input data for three employees find the highest salary of employee and display detail 
+difine a structure name date with members day month and year. write a c program to input to dates and find the difference in days between them
+
+
