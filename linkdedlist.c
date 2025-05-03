@@ -10,7 +10,7 @@ struct Node {
 struct Node* head = NULL; 
 
 
-void insertAtHead(int value) {
+void insert_At_Head(int value) {
     struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
     if (newNode == NULL) {
         printf("Memory not allocated. \n");
@@ -23,7 +23,7 @@ void insertAtHead(int value) {
 }
 
 
-void insertAtTail(int value) {
+void insert_At_Tail(int value) {
     struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
     if (newNode == NULL) {
         printf("Memory not allocated. \n");
@@ -76,12 +76,12 @@ int main() {
             case 1:
                 printf("Enter value to insert at head: ");
                 scanf("%d", &value);
-                insertAtHead(value);
+                insert_At_Head(value);
                 break;
             case 2:
                 printf("Enter value to insert at tail: ");
                 scanf("%d", &value);
-                insertAtTail(value);
+                insert_At_Tail(value);
                 break;
             case 3:
                 display();
